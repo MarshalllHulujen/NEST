@@ -31,13 +31,6 @@ body {
   margin-block: 20px;
 }
 
-/* .bar>.bar1:hover {
-  background-color: rgb(0, 0, 139);
-  width: 20px;
-  transform: rotate(-45deg);
-  margin-bottom: 2px;
-} */
-
 .bar1 {
   background-color: rgb(0, 255, 183);
   width: 40px;
@@ -69,13 +62,6 @@ body {
   margin-bottom: 5px;
   transition: width 0.5s, height 0.5s, transform 0.5s, background-color 0.5s, margin-top 0.5s;
 }
-
-/* .bar>.bar3:hover {
-  background-color: rgb(0, 0, 139);
-  width: 20px;
-  transform: rotate(45deg);
-  margin-bottom: -5px;
-} */
 
 .Icon {
   font-family: Arial, Helvetica, sans-serif;
